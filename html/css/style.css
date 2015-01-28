@@ -19,6 +19,10 @@ body {
 	background-size: contain;
 }
 
+#logo:hover{
+	background-image: url('../images/manandsons-logo-w.png');
+}
+
 .Absolute-Center {
   margin: auto;
   position: absolute;
